@@ -1,4 +1,5 @@
 # Welcome to Remix!
+- Remix tutorial from [Egghead](https://egghead.io/courses/learn-remix-by-building-a-social-media-platform-with-typescript-and-prisma-cddb0550)
 
 - [Remix Docs](https://remix.run/docs)
 
